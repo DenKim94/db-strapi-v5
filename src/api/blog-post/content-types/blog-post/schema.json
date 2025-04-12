@@ -50,7 +50,7 @@
         }
       },
       "maxLength": 30,
-      "regex": "^[A-ZÄÖÜ][a-zäöüß]+$"
+      "regex": "^[A-ZÄÖÜА-ЯЁ][a-zäöüßа-яё]+$"
     },
     "Beschreibung": {
       "type": "richtext",
